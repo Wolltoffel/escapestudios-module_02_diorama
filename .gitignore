@@ -112,7 +112,8 @@ Module_02/Build/Windows/FileOpenOrder/EditorOpenOrder.log
 **/.autosave/
 
 #Substance Painter HP Temp Files
-**/.assbin/
+*.assbin
 
 
 ~$Artbible.pptx
+
